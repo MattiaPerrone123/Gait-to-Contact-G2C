@@ -8,7 +8,6 @@ optuna
 onnx>=1.16.1
 onnxruntime>=1.16.0
 
-# Scientific Computing
 numpy
 pandas
 scipy
